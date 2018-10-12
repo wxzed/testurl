@@ -22,7 +22,7 @@
           "checksum": "SHA-256:a844a12244f8145d9069340cc31746632c2ecec47193880ef9a90ef188630f82",
           "size": "156467414",
           "boards": [
-            {"name": "NRF52840_DK_C"},
+            {"name": "NRF52840_DK_C"}
           ],
           "toolsDependencies": [
             {
