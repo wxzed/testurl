@@ -22,7 +22,7 @@
               "name": "FireBettle-ESP32"
             }
           ], 
-          "size": "34582698",
+          "size": "34582719",
           "toolsDependencies": [
             {
               "packager": "esp32", 
@@ -32,7 +32,6 @@
           ], 
           "name": "FireBeetle-ESP32 Mainboard"
       },
-      "platforms": [
       {
           "category": "ESP32", 
           "help": {
