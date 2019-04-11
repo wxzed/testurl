@@ -30,7 +30,7 @@
               "name": "xtensa-esp32-elf-gcc"
             }
           ], 
-          "name": "FireBeetle-ESP32 Mainboard"
+          "name": "TinkerNode_NB-IoT(GL)"
       }
       ], 
       "tools": [
