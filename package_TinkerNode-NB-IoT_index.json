@@ -174,7 +174,7 @@
               "size": "3835660"
             }, 
             {
-              "http://download3.dfrobot.com.cn/TinkerNode-NB-IoT/tools/esptool-2.6.0-linux.tar.gz", 
+              "url": "http://download3.dfrobot.com.cn/TinkerNode-NB-IoT/tools/esptool-2.6.0-linux.tar.gz", 
               "checksum": "SHA-256:6d162f70f395ca31f5008829dd7e833e729f044a9c7355d5be8ce333a054e110", 
               "host": "x86_64-pc-linux-gnu", 
               "archiveFileName": "esptool-2.6.0-linux.tar.gz", 
