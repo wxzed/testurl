@@ -12,6 +12,41 @@
           "help": {
             "online": ""
           }, 
+          "url": "http://download3.dfrobot.com.cn/TinkerNode-NB-IoT/DFRobot_TinkerNode-NB-IoT-1.0.3.zip", 
+          "checksum": "SHA-256:4e62477b1b37d0927369d36ecc7e127601240ea4ebf76f09c6a30bded20bd337", 
+          "version": "1.0.3", 
+          "architecture": "esp32", 
+          "archiveFileName": "DFRobot_TinkerNode-NB-IoT-1.0.3.zip", 
+          "boards": [
+            {
+              "name": "TinkerNode_NB-IoT"
+            }
+          ], 
+          "size": "31085297", 
+          "toolsDependencies": [
+            {
+              "packager": "TinkerNode_NB-IoT", 
+              "version": "1.22.0-80-g6c4433a-5.2.0", 
+              "name": "xtensa-esp32-elf-gcc"
+            }, 
+            {
+              "packager": "TinkerNode_NB-IoT", 
+              "version": "2.6.1", 
+              "name": "esptool_py"
+            }, 
+            {
+              "packager": "TinkerNode_NB-IoT", 
+              "version": "0.2.3", 
+              "name": "mkspiffs"
+            }
+          ], 
+          "name": "TinkerNode_NB-IoT"
+        },
+        {
+          "category": "TinkerNode_NB-IoT", 
+          "help": {
+            "online": ""
+          }, 
           "url": "http://download3.dfrobot.com.cn/TinkerNode-NB-IoT/DFRobot_TinkerNode-NB-IoT-1.0.2.zip", 
           "checksum": "SHA-256:58d46b591df6651b56df4744e9b8c69d03c87dd609acaddb0bf56e71c90c2504", 
           "version": "1.0.2", 
